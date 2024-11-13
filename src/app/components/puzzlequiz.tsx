@@ -19,7 +19,7 @@ const flashcards: Flashcard[] = [
 
 const questions = [
   {
-    text: "find the space in the wisdom no cap fr",
+    text: "Key:",
     image: "/question1.png",
     answer: "damn my big is so sexy and smart"
     //bereal! one by one take letters from both sides of the card- front side starts with d. all lower case, has to find where to put the spaces to make words but it makes sense, maybe give first word as hint if he needs
