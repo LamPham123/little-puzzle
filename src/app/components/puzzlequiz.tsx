@@ -19,7 +19,7 @@ const flashcards: Flashcard[] = [
 
 const questions = [
   {
-    text: "Key:",
+    text: "Key: (Hint: d is the first letter)",
     image: "/question1.png",
     answer: "damn my big is so sexy and smart"
     //bereal! one by one take letters from both sides of the card- front side starts with d. all lower case, has to find where to put the spaces to make words but it makes sense, maybe give first word as hint if he needs
