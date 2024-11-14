@@ -38,9 +38,9 @@ const questions = [
   },
   {
     text: "I'm not just letters, but numbers too, The clout follows me, and you do too. Check my socials to match these wits, together they form a clever mix, use them wisely to solve this trick(s)! ",
-    //13*13*3%134 check IG username and each word has numbers corresponding to it. use those with the operators on screen
     image: "/question3.png",
     answer: "105"
+    //13*13*3%134 check IG username and each word has numbers corresponding to it. use those with the operators on screen
   },
   {
     text: "What those hands doin little?",
@@ -150,7 +150,7 @@ const PuzzleQuiz: React.FC = () => {
                 height={500}
                 alt="Question illustration"
               />
-              <p>Hint: d is the first letter</p>
+              <p>Hint: d is the first letter, answer should be a sentence, put spaces in between each word</p>
             <FlashcardComponent
               flashcard={flashcards[0]}
               onFlip={handleFlip}
