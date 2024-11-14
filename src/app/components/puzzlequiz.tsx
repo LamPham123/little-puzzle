@@ -55,7 +55,7 @@ const questions = [
     // line number 7 tell him he can just start guessing line numbers
   },
   {
-    text: "Hark! Attend to words most dear, For mine heart dost stir when thou art near. To thee, I gave a title fair, A name of honor, beyond compare. Twas first in verse, a gift from me, Yet what I named thee, none else may see. Recall, if thou can, that humble ode—  What title lies therein bestowed?",
+    text: "Hark! Attend to words most dear, For mine heart dost stir when thou art near. To I, thee gave a title fair, A name of honor, beyond compare. Twas first in verse, a gift from you, Yet what thee named it, none else may see. Recall, if thou can, that humble ode—  What title lies therein bestowed?",
     image: "/question7.png",
     answer: "Ode to Mine Big"
     // The title of the first poem he wrote me
